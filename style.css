@@ -4,7 +4,7 @@ box-sizing: border-box;
 font-family: 'poppins', sans-serif;
 }
 
-.hero {
+.back {
 width: 100%;
 min-height: 100vh;
 background: linear-gradient(to right, #00141a, #252625 80%, #252625 50%);
